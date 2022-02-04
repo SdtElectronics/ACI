@@ -1,0 +1,2 @@
+# ACI
+**A**dvanced **C**++ **I**nvestigation, or **A**void **C**opying **I**ndiscriminately. This repository contains various snippets for the purpose of investigating (or abusing) C++ language features. Code are not thoroughly assessed and tested thus should not be adopted directly. 
